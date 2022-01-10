@@ -1,0 +1,4 @@
+git status -> verifica o status do repositorio local
+git add . ou git add -A -> prepara tudo do repositorio local para ser enviado ao remoto
+git commit -m "" -> add uma mensagem
+git push origin main -> manda os arquivos para o repositorio remoto
